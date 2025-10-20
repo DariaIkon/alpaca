@@ -58,5 +58,8 @@
     "through2": "^3.0.0",
     "wd": "^1.11.1",
     "wrench": "^1.5.9"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.11"
   }
 }
